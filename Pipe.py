@@ -4,7 +4,7 @@ import random
 import Settings as set
 
 class Pipe: 
-    GEP = 200
+    GAP = 200
     VEL = 5
 
     def __init__(self, x):
